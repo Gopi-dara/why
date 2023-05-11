@@ -1,0 +1,40 @@
+
+body{
+    text-align: center;
+}
+ header{
+    background-color: rgb(24,10,0);
+    padding: 10px;
+    height: 150px;
+ }
+  nav,ul,li{
+    display: inline;
+    padding: 8px;
+     margin-top: 50px;
+  }
+   nav,ul,li,a{
+    color: burlywood;
+    border-inline: none;
+    text-decoration: none;
+   }
+    h1{
+        color: white;
+    }
+    h2{
+        background-color: antiquewhite;
+    }
+     footer{
+        background-color: black;
+        color: white;
+        padding: 10px;
+     }
+     img{
+        border-radius:50%;
+        width: 150px;
+        height: 150px;
+     }
+     li{
+        b
+     }
+
+   
